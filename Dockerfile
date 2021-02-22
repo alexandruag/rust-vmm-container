@@ -1,4 +1,4 @@
-FROM ubuntu:18.04
+FROM ubuntu:20.04
 ARG RUST_TOOLCHAIN="1.46"
 
 # Adding rust binaries to PATH.
